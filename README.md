@@ -1,7 +1,11 @@
 ## Hi there 👋
+
 Name : Shivansh Pandey
+
 Branch : B.Tech in Computer Science (Core)
+
 Year Of Joining : 2025
+
 Hope to Learn : I wish to be proficient in C++ and many more languages
 <!--
 **shivansh25BCE/shivansh25BCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
